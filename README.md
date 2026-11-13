@@ -1,5 +1,7 @@
 # DBMS-A3
 
+### Video link https://youtu.be/hMWlqu-kAsU?si=m0MJmMrSc5fo7X7V
+
 ## Compile and run
 
 From the project root, create and activate a virtual environment, then install
