@@ -21,14 +21,6 @@ DATABASE_URL=postgresql+psycopg://username:password@localhost:5432/database_name
 Python does not require a separate build step. To check that the source files
 compile, run:
 
-I would start by making a virtual environment first:
-python -m venv .venv
-Then activating it:
-.\.venv\Scripts\Activate.ps1
-
-Download all the required modules:
-python -m pip install -r requirements.txt
-
 
 ```powershell
 python -m compileall app main.py
